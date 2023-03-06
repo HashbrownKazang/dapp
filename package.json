@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "@openzeppelin/contracts-upgradeable": "^4.8.2",
+    "ethers": "^6.0.8",
+    "node.js": "^0.0.1-security",
+    "npm": "^9.6.0",
+    "react": "^18.2.0",
+    "solidity": "^0.0.1",
+    "truffle": "^5.7.9",
+    "yarn": "^1.22.19"
+  }
+}
